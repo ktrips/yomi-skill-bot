@@ -1,0 +1,19 @@
+[
+ {"word": "hello",
+ "read": [
+ 	{"meaning": ["こんにちは","やあ"], 
+ 	"example": ["こんにちは吉田さん|Hello Mr.Yoshida", "やあみなさん|Hello there!"]}
+ ]},
+ {"word": "right",
+ "read": [
+ 	{"meaning": ["正しい","正確な"], 
+ 	"example": ["あなたは合っています|Your're right!", "それは正しい方法です|It's a right way."]},
+  	{"meaning": ["右", "右側"],
+ 	"example": ["右に曲がって|Turn right.", "右側で|Right-hand side."]}
+ ]},
+ {"word": "Saturday",
+ "read": [
+ 	{"meaning": ["土曜日","土曜"], 
+ 	"example": ["今日は土曜日です|It's Saturday today.", "土曜はつまらない|Saturday is boring."]}
+ ]}
+]
