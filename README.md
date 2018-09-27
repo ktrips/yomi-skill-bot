@@ -1,7 +1,16 @@
-# Yomi-skill-bot 読みの神Skill & BOT
+# Reading Clova Skill and Bot
 
-## 読みの神Skill & BOTは、小中学生などの漢字や英語、百人一首などの勉強に役立ちます。
-子どもでも簡単に「ねぇClova、読みの神を開いて」と言うだけでスタートして、「小3の漢字を読み上げて」と言えば、ランダムに小学3年生の常用漢字を10個読んで、書き取りの練習や暗記の助けになります。
-「漢検5級」や「英検3級」などと言えば、試験範囲の言葉を読み上げ、試験勉強をサポートしてくれます。
-## 読み上げ内容とその答えは、スキルに紐づいたLINEの「読みの神BOT」に転送されるので、親御さんが結果の確認やマル付けをする事ができます。
-また独自の問題や試験範囲から問題を出したい場合は、LINEの読みの神BOTで問題の写真を撮ると、その言葉を読取り保存後、Clovaで「問題を読み上げて」と言うと、その範囲で読み上げて試験に役立ちます。
+## What is Clova Reading Skill?
+Reading skill is for remembering Kanji and English spelling.
+Just say "Open Yomi-no-kami, Read Grade 3 Kanji!" then pick up Kanji randomly for the age level and let chidlen study with Clova
+## What is LINE Reading Bot for?
+LINE Bot can check the answer and upload your own problems and correct the results.
+
+## How to setup:
+- Download and set it in AWS Lambda.
+'git clone http://github.com/ktrips/yomi-skill-bot.git'
+'pip install'
+
+## How to use:
+- Be a friend with "Clova Read Skill" - 
+- Be a friend with "LINE Read Bot" -
