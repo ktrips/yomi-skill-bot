@@ -8,8 +8,8 @@ LINE Bot can check the answer and upload your own problems and correct the resul
 
 ## How to setup:
 - Download and set it in AWS Lambda.
-'git clone http://github.com/ktrips/yomi-skill-bot.git'
-'pip install'
+git clone http://github.com/ktrips/yomi-skill-bot.git
+pip install
 
 ## How to use:
 - Be a friend with "Clova Read Skill" - 
