@@ -12,5 +12,5 @@ LINE Bot can check the answer and upload your own problems and correct the resul
   - pip install
 
 ## How to use:
-- Be a friend with "Clova Read Skill" - 
-- Be a friend with "LINE Read Bot" -
+- Be a friend with "Clova Read Skill" in Clova app - 
+- Be a friend with "LINE Read Bot" in LINE -
