@@ -1,5 +1,5 @@
 # Reading Clova Skill and Bot
-![yomikami108](https://user-images.githubusercontent.com/10143987/46138578-35930080-c287-11e8-9943-ff192a9e2861.jpg) Be a friend with Read Bot! https://page.line.me/rtk2813j
+![yomikami108](https://user-images.githubusercontent.com/10143987/46138578-35930080-c287-11e8-9943-ff192a9e2861.jpg) Be a friend with Read Bot! https://page.line.me/rtk2813j ![278165f37df9af95f9b4004758cb41cc](https://user-images.githubusercontent.com/10143987/46198921-8dde0700-c348-11e8-834e-88c3e9ec4bfe.png)
 ## What is Clova Read Skill?
 Reading skill is for remembering Kanji and English spelling.
 Just say "Open Yomi-no-kami, Read Grade 3 Kanji!" then pick up Kanji randomly for the age level and let chidlen study with Clova
